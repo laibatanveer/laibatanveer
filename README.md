@@ -1,8 +1,8 @@
-<img src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="50%">
+<img src = "[https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif](https://scontent.fkhi4-3.fna.fbcdn.net/v/t39.30808-6/286712598_111894744875608_5547918998843983187_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=6XM76GNJOQ0AX91wD6E&_nc_zt=23&_nc_ht=scontent.fkhi4-3.fna&oh=00_AfD7bpwlpCx-E7p6L_CDSX9sD2QCu0iqvOoEapHWDP9gOQ&oe=648A2F27)" width="50%">
 <h1 align="center">Hi 👋, I'm laiba tanveer</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-<p align="left"> <img src="https://scontent.fkhi4-3.fna.fbcdn.net/v/t39.30808-6/286712598_111894744875608_5547918998843983187_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=6XM76GNJOQ0AX91wD6E&_nc_zt=23&_nc_ht=scontent.fkhi4-3.fna&oh=00_AfD7bpwlpCx-E7p6L_CDSX9sD2QCu0iqvOoEapHWDP9gOQ&oe=648A2F27" alt="LaibaTanveer" /> </p>
+<p align="left"> <img src="" alt="LaibaTanveer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laibatanveer" alt="laibatanveer" /></a> </p>
 
